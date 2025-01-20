@@ -30,7 +30,7 @@ A simple and efficient QR Code Generator using Node.js! This project utilizes th
 
 1. Run the application:
    ```bash
-   node app.js
+   node index.js
    ```
 
 2. Follow the interactive prompts to input the URL or text for the QR code.
